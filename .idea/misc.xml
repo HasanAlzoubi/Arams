@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/animate.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/bootstrap-datepicker.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/bootstrap.min.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/font-awesome.min.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/login.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/profile.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/property-style.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/register.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/socialButtons.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/socialButtons_search_filter.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/style.about.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/style.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/style0.css" />
+    <file url="file://$PROJECT_DIR$/public/Arams/css2/style_search_filter.css" />
+  </component>
+</project>
